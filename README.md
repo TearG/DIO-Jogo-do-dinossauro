@@ -6,7 +6,7 @@ Repositório destinado ao Código do Joguinho do Dinossauro, da Digital Innovati
 /br
 
 
-<img src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" width="300" height="400">
+<img src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" width="500" height="400">
  
      
 
