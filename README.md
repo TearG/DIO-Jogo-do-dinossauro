@@ -22,7 +22,7 @@ Repositório destinado ao Código do Joguinho do Dinossauro, da Digital Innovati
 Recriação do famoso joguinho do Dinossauro, feito em Html, Css e Javascript. 
 
 
-# <div id="melhorias" class="melhorias"># Melhorias</div>
+# <div id="melhorias" class="melhorias">Melhorias</div>
 
 - [ ] Otimizar a velocidade do Game
 - [ ] Criar sistema de Score
