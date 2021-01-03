@@ -12,11 +12,12 @@ Repositório destinado ao Codigo do desafio da semana 17 de loja online de uma P
 <a href="#Hospedagem e visualização">Hospedagem e visualização</a> 
 
 
-# Sobre este Projeto <id = "Sobre este Projeto">
+
+# <div id="Sobre este Projeto" class="Sobre este Projeto">Sobre este Projeto</div>
 Recriação do famoso joguinho do Dinossauro, feito em Html, Css e Javascript. 
 
 
-<div id="melhorias" class="melhorias"># Melhorias</div>
+# <div id="melhorias" class="melhorias"># Melhorias</div>
 
 - [ ] Otimizar a velocidade do Game
 - [ ] Criar sistema de Score
@@ -24,6 +25,6 @@ Recriação do famoso joguinho do Dinossauro, feito em Html, Css e Javascript.
 - [ ] Modificar o game para funcionar em touch de celular
 
 
-# Hospedagem e visualização. <id = "Hospedagem e visualização">
+# <div id="Hospedagem e visualização" class="Hospedagem e visualização">Hospedagem e visualização</div>
 
 https://dinossaurocarioca.netlify.app
