@@ -16,7 +16,7 @@ Repositório destinado ao Codigo do desafio da semana 17 de loja online de uma P
 Recriação do famoso joguinho do Dinossauro, feito em Html, Css e Javascript. 
 
 
-# Melhorias. <id = "Melhorias">
+<div id="melhorias" class="melhorias"># Melhorias</div>
 
 - [ ] Otimizar a velocidade do Game
 - [ ] Criar sistema de Score
