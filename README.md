@@ -3,7 +3,7 @@
 
 Repositório destinado ao Código do Joguinho do Dinossauro, da Digital Innovation One <img src="https://i.pinimg.com/originals/59/10/9e/59109ed81c1cfe6555f7b1d80d8db070.png" width="40" height="40">
 
-/br
+
 
 
 <img src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" width="500" height="400">
