@@ -28,7 +28,6 @@ Recriação do famoso joguinho do Dinossauro, feito em Html, Css e Javascript.
 
 - [ ] Otimizar a velocidade do Game
 - [ ] Criar sistema de Score
-- [ ] Criar loja de outros tipos
 - [ ] Modificar o game para funcionar em touch de celular
 
 
